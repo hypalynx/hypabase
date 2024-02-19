@@ -23,6 +23,8 @@ _These are not essential but often required, so here's the default plan_
 - TailwindCSS (for projects with multiple contributors where css gets weird).
 - PostgreSQL (for scaling beyond a single machine).
 - CMS? (tina? contentful? ghost? strapi?) not sure yet
+- Typescript.. yeah?
+- Three.js/framer-motion/GSAP (animation libraries).
 
 ## Deployment
 

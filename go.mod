@@ -1,6 +1,6 @@
 module hypalynx.com/hypabase
 
-go 1.19
+go 1.22
 
 require (
 	github.com/tursodatabase/libsql-client-go v0.0.0-20240208053015-5d6aa1e2196d
